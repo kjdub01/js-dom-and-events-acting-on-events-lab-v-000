@@ -14,7 +14,7 @@ function retrieveEmployeeInformation() {
 
 function addNewElementAsLi() {
   let employeeName = retrieveEmployeeInformation();
-  document.querySelector( 'employee-list').append()
+  document.querySelector( 'employee-list').insertAdjacentHTML
 }
 
 function addNewLiOnClick() {
