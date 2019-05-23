@@ -18,7 +18,7 @@ function addNewElementAsLi() {
 }
 
 function addNewLiOnClick() {
-  
+  let input
 }
 
 function clearEmployeeListOnLinkClick() {
