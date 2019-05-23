@@ -13,7 +13,7 @@ function retrieveEmployeeInformation() {
 }
 
 function addNewElementAsLi() {
-  
+  let employeeName = retrieveEmployeeInformation();
 }
 
 function addNewLiOnClick() {
