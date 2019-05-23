@@ -18,3 +18,7 @@ function addNewElementAsLi() {
 function addNewLiOnClick() {
   
 }
+
+function clearEmployeeListOnLinkClick() {
+  
+}
