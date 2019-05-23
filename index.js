@@ -18,7 +18,7 @@ function addNewElementAsLi() {
 }
 
 function addNewLiOnClick() {
-  let submit = document.querySelector('input[')
+  let submit = document.querySelector('input[type = submit]')
 }
 
 function clearEmployeeListOnLinkClick() {
