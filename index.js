@@ -8,7 +8,7 @@ preventRefreshOnSubmit()
 
 
 function retrieveEmployeeInformation() {
-  
+  return document.querySelector('input');
 }
 
 function addNewElementAsLi() {
